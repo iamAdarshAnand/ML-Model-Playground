@@ -38,3 +38,11 @@ The datasets are bundled with scikit-learn. Metrics describe held-out test data,
 
 ## License
 MIT. Created by Adarsh Anand.
+
+## Project discovery
+
+**Interactive Machine Learning Model Comparison** — Streamlit scikit-learn dashboard for Logistic Regression, Random Forest and KNN model evaluation using public educational datasets.
+
+**Related developer searches:** machine learning playground, scikit-learn, Streamlit, model comparison, classification, confusion matrix, Python.
+
+**Source:** [ML-Model-Playground](https://github.com/iamAdarshAnand/ML-Model-Playground) · **Author:** [Adarsh Anand](https://github.com/iamAdarshAnand)
